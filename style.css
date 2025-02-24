@@ -42,7 +42,6 @@ main{
     text-align:center;
     margin:0;
     justify-content: center;
-    flex-direction:column;
     
 }
 .container{
@@ -71,10 +70,11 @@ main{
     color: black;
 }
 footer{
+    width:100vw ;
     text-align:center;
     height: auto;
     background-color: gray;
     margin-top: 0px;
     padding-top: 0px;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
