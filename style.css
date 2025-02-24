@@ -30,7 +30,6 @@ body{
     background-color:hsl(0, 0%, 8%);
     display: flex;
     flex-direction: column;
-    flex: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
@@ -73,7 +72,7 @@ footer{
     text-align:center;
     height: auto;
     background-color: gray;
-    margin-TOP: 0PX;
-    padding-TOP: 0PX;
+    margin-top: 0px;
+    padding-top: 0px;
     flex-wrap: wrap;
 }
