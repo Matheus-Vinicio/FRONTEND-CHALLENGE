@@ -26,12 +26,7 @@ h1, h3, p{
     text-align: center;
     
 }
-h2{
-    color: #c5f82a;
-    font-family: 'Inter', sans-serif;
-    text-align: center;
-    font-size:20px;
-}
+
 body{
     background-color:hsl(0, 0%, 8%);
     display: flex;
